@@ -1,3 +1,4 @@
 "My first Git file" 
-"This is the second line" 
-"This line was edited locally"
+"This is the second line"
+"This line was edited both locally and remotely"
+
